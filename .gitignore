@@ -1,0 +1,13 @@
+# Skills CLI agent-specific stores (generated locally, re-run npx skills add to restore)
+.agents/
+agent/
+
+# Salesforce DX
+.sfdx/
+.sf/
+
+# Local Claude overrides
+CLAUDE.local.md
+
+# Code Analyzer temp output
+ca-results.json
